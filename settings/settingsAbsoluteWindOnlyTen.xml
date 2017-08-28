@@ -1,5 +1,0 @@
-<root value="hello">
-	<suffix value="Absolute" ratioCapacity="5.0"/>
-	<portType value="WindOnly"/>
-	<limit value="Ten"/>
-</root>
