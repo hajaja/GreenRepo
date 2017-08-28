@@ -14,6 +14,7 @@ We evaluate our approach with real-world workload data from Google and ClarkNet,
   Input: output of calculateCoefficient
   Output: the percentage of capcaity installed at different locations
 4. resultAnalysis, .m files, used analyze results and plot figures/tables in Matlab
+5. data folder is too large to update. Detailed information on data sets can be found in references. 
 
 # References
 1. Fanxin Kong, Chuansheng Dong, Xue Liu, Haibo Zeng: Quantity Versus Quality: Optimal Harvesting Wind Power for the Smart Grid. Proceedings of the IEEE 102(11): 1762-1776 (2014)
