@@ -1,0 +1,6 @@
+<root value="hello">
+	<suffix value="Absolute" ratioCapacity="5.0"/>
+	<portType value="WindOnly"/>
+	<limit value="Ten"/>
+	<trainType value="19902000"/>
+</root>

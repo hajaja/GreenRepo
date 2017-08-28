@@ -1,0 +1,5 @@
+<root value="hello">
+	<suffix value="Absolute" ratioCapacity="5.0"/>
+	<portType value="WindSolar"/>
+	<limit value="All"/>
+</root>
